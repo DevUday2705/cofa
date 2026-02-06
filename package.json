@@ -1,5 +1,6 @@
 {
   "name": "sony-cofa",
+  "homepage" : "https://sony-cofa.github.io/cofa/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
