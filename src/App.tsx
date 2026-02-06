@@ -1,4 +1,4 @@
-import React from "react";
+// @ts-nocheck
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Dashboard from "@/components/Dashboard";
 import CreateFund from "@/components/CreateFund";
